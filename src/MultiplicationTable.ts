@@ -1,13 +1,5 @@
 export class MultiplicationTable {
   public render(start: number, end: number): string {
-    // if (this.isStartLessThanEnd(start, end)) {
-    //   return ''
-    // }
-
-    // if (!this.isValidRange(start, end)) {
-    //   return ''
-    // }
-
     if (!this.isValid(start, end)){
       return ''
     }
