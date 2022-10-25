@@ -1,14 +1,26 @@
 export class MultiplicationTable {
   public render(start: number, end: number): string {
-    if (this.isStartLessThanEnd(start, end)) {
-      return ''
-    }
+    // if (this.isStartLessThanEnd(start, end)) {
+    //   return ''
+    // }
 
-    if (!this.isValidRange(start, end)) {
+    // if (!this.isValidRange(start, end)) {
+    //   return ''
+    // }
+
+    if (!this.isValid(start, end)){
       return ''
     }
 
     return this.getMultiplicationTable(start, end)
+  }
+
+  public isValid(start: number, end: number){
+    if (!this.isStartLessThanEnd(start, end) && this.isValidRange(start, end)){
+      return true
+    }else {
+      return false
+    }
   }
 
   private isStartLessThanEnd(start: number, end: number): boolean {
