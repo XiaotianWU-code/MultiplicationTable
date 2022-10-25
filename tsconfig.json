@@ -21,6 +21,6 @@
   ],
   "include": [
     "src/**/*.ts",
-    "spec/**/*.ts"
+    "test/**/*.ts"
   ]
 }
