@@ -21,4 +21,4 @@ AC3: The output should be a string represents the multiplication table. Suppose 
 4. Please repeat step 3 until all functions are implemented.
 
 # Task Diagram
- ![img](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=FunctionMap.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FXiaotianWU-code%2Fimg%2Fmain%2FFunctionMap.drawio)
+ ![img](https://s3.cn-north-1.amazonaws.com.cn/tws-upload/images/1666749322028-a277a425-93ba-4893-a397-c6da379b56bc.PNG)
