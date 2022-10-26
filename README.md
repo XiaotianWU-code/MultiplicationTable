@@ -19,3 +19,6 @@ AC3: The output should be a string represents the multiplication table. Suppose 
 2. Please declare all the functions according to your diagram.
 3. Please write a test case following given...when...then pattern for a leaf block of the diagram. Then implement the block to pass the test. Should only test the `render` method.
 4. Please repeat step 3 until all functions are implemented.
+
+# Task Diagram
+![avatar](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=FunctionMap.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FXiaotianWU-code%2Fimg%2Fmain%2FFunctionMap.drawio)
